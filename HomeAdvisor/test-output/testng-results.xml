@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7864" started-at="2017-11-11T02:56:40Z" finished-at="2017-11-11T02:56:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7864" started-at="2017-11-11T02:56:40Z" finished-at="2017-11-11T02:56:48Z">
+      <class name="testngtutorials.DataDrivenExample">
+        <test-method status="PASS" signature="getDataFromExcel()[pri:0, instance:testngtutorials.DataDrivenExample@120ebad]" name="getDataFromExcel" duration-ms="7856" started-at="2017-11-10T21:56:40Z" finished-at="2017-11-10T21:56:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDataFromExcel -->
+      </class> <!-- testngtutorials.DataDrivenExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
